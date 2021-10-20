@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hospital Management System 
 
 You can use the [editor on GitHub](https://github.com/ssoad/Hospital-Management-System/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
